@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://laizaleal.github.io/bookish-loop",
+  "homepage": "https://larasdiniz.github.io/bookish-loop",
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
